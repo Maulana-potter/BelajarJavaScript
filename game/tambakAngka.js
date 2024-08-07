@@ -29,7 +29,6 @@ var p = parseInt (prompt ("masukan angka dari 1-10 "))
  }
 console.log(comp) 
  // menentukan rules
-
     var hasil = ""
     if (p === comp) {
         hasil = "tebakan benar"
